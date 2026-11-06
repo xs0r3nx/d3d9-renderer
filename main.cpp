@@ -18,7 +18,6 @@ const uint32_t SCR_HEIGHT = 600;
 const wchar_t* CLASS_NAME = L"D3D9";
 const wchar_t* SCR_TITLE = L"D3D9 Window";
 
-
 class Light
 {
 
